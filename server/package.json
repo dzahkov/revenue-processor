@@ -1,0 +1,13 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "Server application",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+
+    }
+  }
+  

@@ -1,0 +1,13 @@
+{
+    "name": "processor",
+    "version": "1.0.0",
+    "description": "Processor application",
+    "main": "data_processor.js",
+    "scripts": {
+      "start": "node data_processor.js"
+    },
+    "dependencies": {
+
+    }
+  }
+  

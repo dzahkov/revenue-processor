@@ -1,0 +1,13 @@
+{
+    "name": "client",
+    "version": "1.0.0",
+    "description": "Client application",
+    "main": "client.js",
+    "scripts": {
+      "start": "node client.js"
+    },
+    "dependencies": {
+
+    }
+  }
+  
